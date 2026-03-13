@@ -1,33 +1,74 @@
-## Hi there 👋 I'm Girish
+# Hi there 👋 I'm Girish
+
+🚀 Builder | Automation Developer | Trading Systems
 
 💻 Computer Science Student  
-🚀 I enjoy building real-world projects and learning by doing  
-📚 Currently focused on DSA, automation, and development
+📚 Currently mastering **Data Structures & Algorithms**  
+⚡ Passionate about building real-world automation systems and scalable tech
 
-### 🔭 Current Projects
+---
 
-- **AI YouTube Shorts Automation**  
-  Building an automated pipeline in Python for script → voice → video generation
+## 🚀 What I'm Building
 
-- **Algorithmic Trading Bot**  
-  Working on automated trading strategies, execution logic, and market analysis tools
+🤖 **AI YouTube Shorts Automation**
+- Fully automated pipeline
+- Script → Voice → Video generation
+- Python based automation system
 
-- **Personal Portfolio Website**  
-  Creating a portfolio website to showcase my projects and skills
+📈 **Algorithmic Trading Bot**
+- Automated trading strategies
+- Market data analysis
+- Building a **production-level trading system**
 
-### 🛠 Tools & Technologies
+🌐 **Production-Level Website**
+- Developing a scalable modern website
+- Built with **React and modern web technologies**
+- Focused on performance and real-world deployment
 
-- **Languages:** Python, C++, JavaScript  
-- **Tools:** Git, GitHub, VS Code, Linux  
-- **Learning:** Data Structures & Algorithms, System Design, AI Automation
+🎬 **Video Editing & Content Creation**
+- Creating high-quality edited content
+- Working with short-form content
+- Experimenting with automation in editing workflows
 
-### 📫 Reach Me
+---
 
-- **Email:** g43000401@gmail.com  
-- **GitHub:** GIRISH-G-N
+## 🛠 Tech Stack
 
-### ⚡ About Me
+### 💻 Languages
+- Python
+- C
+- C++
+- JavaScript
 
-- I like building practical projects that solve real problems  
-- I enjoy working on automation, trading systems, and web projects  
-- I am continuously improving my coding and problem-solving skills
+### 🌐 Web Development
+- React
+- HTML
+- CSS
+
+### ⚙ Tools
+- Git
+- GitHub
+- VS Code
+- Linux
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced **Data Structures & Algorithms**
+- **System Design**
+- **AI Automation Systems**
+- **Algorithmic Trading Systems**
+
+---
+
+## 📫 Reach Me
+
+📧 Email: g43000401@gmail.com  
+💻 GitHub: https://github.com/GIRISH-G-N
+
+---
+
+## ⚡ Developer Mindset
+
+> Code. Build. Break. Fix. Repeat.
