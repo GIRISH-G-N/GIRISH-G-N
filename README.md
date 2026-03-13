@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there 👋 I'm Girish
 
-<!--
-**GIRISH-G-N/GIRISH-G-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student  
+🚀 I enjoy building real-world projects and learning by doing  
+📚 Currently focused on DSA, automation, and development
 
-Here are some ideas to get you started:
+### 🔭 Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **AI YouTube Shorts Automation**  
+  Building an automated pipeline in Python for script → voice → video generation
+
+- **Algorithmic Trading Bot**  
+  Working on automated trading strategies, execution logic, and market analysis tools
+
+- **Personal Portfolio Website**  
+  Creating a portfolio website to showcase my projects and skills
+
+### 🛠 Tools & Technologies
+
+- **Languages:** Python, C++, JavaScript  
+- **Tools:** Git, GitHub, VS Code, Linux  
+- **Learning:** Data Structures & Algorithms, System Design, AI Automation
+
+### 📫 Reach Me
+
+- **Email:** your-email@gmail.com  
+- **GitHub:** your-github-username
+
+### ⚡ About Me
+
+- I like building practical projects that solve real problems  
+- I enjoy working on automation, trading systems, and web projects  
+- I am continuously improving my coding and problem-solving skills
