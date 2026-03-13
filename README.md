@@ -23,8 +23,8 @@
 
 ### 📫 Reach Me
 
-- **Email:** your-email@gmail.com  
-- **GitHub:** your-github-username
+- **Email:** g43000401@gmail.com  
+- **GitHub:** GIRISH-G-N
 
 ### ⚡ About Me
 
