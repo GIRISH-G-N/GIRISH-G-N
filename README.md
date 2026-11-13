@@ -1,74 +1,72 @@
-# Hi there 👋 I'm Girish
 
-🚀 Builder | Automation Developer | Trading Systems
+# Girish G N
 
-💻 Computer Science Student  
-📚 Currently mastering **Data Structures & Algorithms**  
-⚡ Passionate about building real-world automation systems and scalable tech
+**Software Developer | Automation Engineer | Computer Science Student**
 
----
+I build software, automation systems, and data-driven applications with a focus on practical problem-solving, performance, and scalability.
 
-## 🚀 What I'm Building
-
-🤖 **AI YouTube Shorts Automation**
-- Fully automated pipeline
-- Script → Voice → Video generation
-- Python based automation system
-
-📈 **Algorithmic Trading Bot**
-- Automated trading strategies
-- Market data analysis
-- Building a **production-level trading system**
-
-🌐 **Production-Level Website**
-- Developing a scalable modern website
-- Built with **React and modern web technologies**
-- Focused on performance and real-world deployment
-
-🎬 **Video Editing & Content Creation**
-- Creating high-quality edited content
-- Working with short-form content
-- Experimenting with automation in editing workflows
+Currently focused on Data Structures & Algorithms, system design, intelligent automation, and developing real-world software projects.
 
 ---
 
-## 🛠 Tech Stack
+## Projects
 
-### 💻 Languages
+### AI Content Automation System
+- Developing an automated video generation pipeline using Python.
+- Integrating script generation, text-to-speech, video processing, and automated publishing.
+- Exploring AI-driven workflows for short-form content production.
+
+### Algorithmic Trading System
+- Developing automated trading strategies and execution systems.
+- Working with market data, technical indicators, and risk management.
+- Exploring systematic trading and strategy optimization.
+
+### Web Application Development
+- Building modern web applications using React and JavaScript.
+- Developing frontend interfaces and integrating backend services.
+- Focused on application architecture, performance, and deployment.
+
+### Video Production & Post-Production
+- Working with video editing and post-production workflows.
+- Exploring automation for media processing and content creation.
+
+---
+
+## Technical Skills
+
+**Languages**
 - Python
-- C
-- C++
+- C / C++
 - JavaScript
 
-### 🌐 Web Development
+**Web Technologies**
 - React
-- HTML
-- CSS
+- HTML5
+- CSS3
 
-### ⚙ Tools
-- Git
-- GitHub
+**Tools & Platforms**
+- Git & GitHub
 - VS Code
 - Linux
+- DaVinci Resolve
 
 ---
 
-## 🌱 Currently Learning
+## Current Focus
 
-- Advanced **Data Structures & Algorithms**
-- **System Design**
-- **AI Automation Systems**
-- **Algorithmic Trading Systems**
-
----
-
-## 📫 Reach Me
-
-📧 Email: g43000401@gmail.com  
-💻 GitHub: https://github.com/GIRISH-G-N
+- Data Structures & Algorithms
+- System Design and Software Architecture
+- AI-powered Automation
+- Algorithmic Trading
+- Building and deploying scalable applications
 
 ---
 
-## ⚡ Developer Mindset
+## Connect
 
-> Code. Build. Break. Fix. Repeat.
+- **Email:** g43000401@gmail.com
+- **GitHub:** [GIRISH-G-N](https://github.com/GIRISH-G-N)
+
+---
+
+*Interested in engineering practical solutions, exploring new technologies, and building software that solves real problems.*
